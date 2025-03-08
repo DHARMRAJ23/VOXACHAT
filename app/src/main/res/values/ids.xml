@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etMobileNumber" type="id" />
+    <item name="btnVerify" type="id" />
+    <item name="tvSkip" type="id" />
+    <item name="tvFriendsLabel" type="id" />
+    <item name="recyclerFriends" type="id" />
+    <item name="mapFragment" type="id" />
+    <item name="usernameInput" type="id" />
+    <item name="sendRequestButton" type="id" />
+    <item name="requestList" type="id" />
+</resources>
